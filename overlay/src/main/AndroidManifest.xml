@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+package="com.linxtu.rro.overlay">
+
+<overlay
+    android:priority="1"
+    android:targetPackage="com.linxtu.rro.target" />
+
+</manifest>
